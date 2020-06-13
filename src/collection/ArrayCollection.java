@@ -12,6 +12,9 @@ public class ArrayCollection {
         list.add("Ira");
         list.add("Peter");
         list.add("John");
+        list.add("Bruce");
+        list.add("Fred");
+        list.add("Alina");
         list.size();
         //Traversing list through iterator
         Iterator itr = list.iterator();
