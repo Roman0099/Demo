@@ -15,6 +15,9 @@ public class ArrayCollection {
         list.add("Bruce");
         list.add("Fred");
         list.add("Alina");
+        list.remove("John");
+        list.remove("Peter");
+        list.remove("Alina");
         list.size();
         //Traversing list through iterator
         Iterator itr = list.iterator();
